@@ -4,7 +4,7 @@
 
 ThingScalextric is a local multiplayer racing game (2 players -> Mobile, 2-4 players -> Tablets and PC). The peculiarity of this game is that we will run with everyday's life objects like a banana or a computer mouse instead of common vehicles.
 We will have to be aware of our speed on the curves for not derail and we will be able to change rail manually when the "changing indicator" is full.
-The player who manages to complete first 5 laps of the circuit will win.
+The player who manages to complete first 5 laps of the circuit will win the race.
 
 There are 3 different circuits availables to play (Office, Kitchen and Casino).
 
