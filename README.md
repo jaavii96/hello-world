@@ -6,23 +6,23 @@ ThingScalextric is a local multiplayer racing game (2 players -> Mobile, 2-4 pla
 We will have to be aware of our speed on the curves for not derail and we will be able to change rail manually when the "changing indicator" is full.
 The player who manages to complete first 5 laps of the circuit will win.
 
-There are 3 different circuits availables to play (Kitchen, Office and Casino).
+There are 3 different circuits availables to play (Office, Kitchen and Casino).
 
 ### Circuits:
-- **Kitchen**: 
-- **Office**: 
-- **Casino**: 
+- **Office**: high speed and smooth curves predominate in this circuit. It has a lot of turbo zones.
+- **Kitchen**: itermediate difficulty circuit with all kind of curves.
+- **Casino**: crazy circuit with incredible jumps and closed curves.
 
 ### Vehicles:
-- **Bananator**: acceleration: 50, weight: 60.
-- **Velocicactus**:
+- **Bananator**: acceleration: 50, weight: 60, grip: 80.
+- **Velocicactus**: acceleration: 60, weight: 50, grip: 60.
 
 
 ### PC Controls:
-- **1 Player**: W -> speed up; Q,E -> Change rail.
-- **2 Player**: Up Arrow -> speed up; Left Arrow,Right Arrow -> Change rail.
-- **3 Player**: B -> speed up; V,N -> Change rail.
-- **4 Player**: O -> speed up; I,P -> Change rail.
+- **1 Player**: (W) Speed up - (Q,E) Change rail.
+- **2 Player**: (UpArrow) Speed up - (LeftArrow,RightArrow) Change rail.
+- **3 Player**: (B) Speed up - (V,N) Change rail.
+- **4 Player**: (O) Speed up - (I,P) Change rail.
 
 ### Tablet And Mobile Controls:
 - Speed Up Button and Change rail Buttons.
