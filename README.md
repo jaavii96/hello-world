@@ -30,7 +30,7 @@ There are 3 different circuits availables to play (Office, Kitchen and Casino).
 - Speed Up Button and Change rail Buttons.
 
 ### Credits: 
-**Virtual Madness 2017**
+**Virtual Madness 2018**
 - Daniel Abad Jaraute - _Programmer_
 - Sergio De Frutos López - _Programmer and Artist_
 - Gabriel Ángel Sevilla Camacho - _Artist_
