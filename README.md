@@ -3,7 +3,9 @@
 #### This videogame has been created as a second proyect for the subject "_Juegos para Web y Redes Sociales_" imparted in "_Universidad Rey Juan Carlos, Móstoles (Madrid)_". In this case we have use Unity.
 
 ThingScalextric is a local multiplayer racing game (2 players -> Mobile, 2-4 players -> Tablets and PC). The peculiarity of this game is that we will run with everyday's life objects like a banana or a computer mouse instead of common vehicles.
+
 We will have to be aware of our speed on the curves for not derail and we will be able to change rail manually when the _changing indicator_ is full.
+
 The player who manages to complete first 5 laps of the circuit will win the race.
 
 There are 3 different circuits availables to play (Office, Kitchen and Casino).
